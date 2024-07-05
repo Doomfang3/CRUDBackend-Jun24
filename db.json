@@ -1,0 +1,21 @@
+{
+  "recipes": [],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "tomato"
+    },
+    {
+      "id": 2,
+      "name": "mozza"
+    },
+    {
+      "id": 3,
+      "name": "flour"
+    },
+    {
+      "name": "egg",
+      "id": 4
+    }
+  ]
+}
